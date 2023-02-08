@@ -5,6 +5,8 @@
 
 Après-Ski is an application geared towards snowsport entheusiests looking for good vibes, food, and drinks to round out their day.
 
+:skier: [MVP](#mvp)
+<br>
 :skier: [Learning Goals](#learning-goals)
 <br>
 :skier: [Project Overview](#project-overview)
@@ -14,6 +16,22 @@ Après-Ski is an application geared towards snowsport entheusiests looking for g
 :skier: [Tech Stack](#tech-stack)
 <br>
 :skier: [Contributors](#contributors)
+<br>
+
+### MVP
+
+- This project is for: Breckenridge skiers who are hungry and limited to walking distence.
+
+| Features | Description |
+| --- | --- |
+| User Selection | A user can login to the app by selecting a demo user|
+| Dashboard | A dashboard that displays a list of restaurants in the area and a map with location markers|
+| Map | A map that shows markers for: the demo user's location, ski-lifts, and restaurants in the area. *These markers will just display the names and distance from the user* |
+| List | A list that on load will display all restaurants with summary information in ascending order of distance from using|
+| Filter Menu | A menu that allows a user to filter the restaurants list by `vibe`, `if there is a happy hour`, `if they server alcohol`|
+| Details View | A modal that displays all the information for a restaurant |
+
+
 <br>
 
 ### Learning Goals
