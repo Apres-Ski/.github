@@ -94,10 +94,10 @@ Keep reading for more about our Teams and Stretch-techs...
 </a>
 </td>
 <td>
-<a href="https://www.linkedin.com/in/kevin-ta-b1a36723b/" rel="nofollow noreferrer">
+<a href="https://github.com/KevinT001" rel="nofollow noreferrer">
 <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
 </a><br>
-<a href="https://github.com/KevinT001" rel="nofollow noreferrer">
+<a href="https://www.linkedin.com/in/kevin-ta-b1a36723b/" rel="nofollow noreferrer">
 <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
 </a>
 </td>
