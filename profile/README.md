@@ -106,6 +106,6 @@ Please follow [this link]() and select a pre-made user to see our API and webapp
 [Back-End's Repo](https://github.com/Apres-Ski/Apres_Ski_BE)
 
 <p>Our selected stretch-tech was to create our API in a totaly new language, framework, and testing framework.</p>
-<p>We chose Python, Django, Django REST Framework, and Pytest for this project. While this choice did make the project considerably harder, we are very happy with our results. The experience of stepping into a new language and framework let us really appreciate how much we had learned over our time studying at Turing and let us prove that we could step into any tech-stack and be successful!</p>
+<p>We chose Python, Django, Django REST Framework, and Pytest for this project. While this choice did make the project considerably harder, we are very happy with our results. The experience of stepping into a new language and framework let us really appreciate how much we had learned over our time studying at Turing and let us prove that we could <i>quickly</i> step into any tech-stack and be successful!</p>
 
 </div>
