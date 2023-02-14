@@ -1,9 +1,9 @@
 <h1 align="center"> Après-Ski </h1>
 
-Hi!
+Hello & welcome to Après-Ski!
 <br>
 <br>
-Après-Ski was our capstone project at The Turing School of Software & Design. 
+This was our capstone project at The Turing School of Software & Design. 
 <br>
 <br>
 The capstone's challenge was to pitch, design, build and deploy two micro-services: a back-end RESTful API, and a front-end React web application. There was an added twist. Each team had to impliment a new technology (see below: stretch-tech) for this project, something that they had never worked on before. All in two and a half weeks!
