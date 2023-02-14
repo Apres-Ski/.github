@@ -101,7 +101,7 @@ Please follow [this link]() and select a pre-made user to see our API and webapp
 </tr>
 </table>
 
-<h3>Back-End's Repo and Stretch-tech</h3>
+<h3>Back-End's Repo and Stretch-tech(s)</h3>
 
 [Back-End's Repo](https://github.com/Apres-Ski/Apres_Ski_BE)
 
