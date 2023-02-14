@@ -12,7 +12,7 @@ The capstone's challenge was to pitch, design, build and deploy two micro-servic
 If you would like to see Après-Ski in action. Please follow [this link]() and select a pre-made user.
 <br>
 <br>
-Keep reading for more about our Teams and Stretch-Techs...
+Keep reading for more about our Teams and Stretch-techs...
 
 ---
 
