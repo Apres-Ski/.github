@@ -1,10 +1,15 @@
 <h1 align="center"> Après-Ski </h1>
 
-Hungry and tired after a day at Breckenridge? Are you looking to find somewhere that's fun, good vibes, and close enough to walk?
-
-Find it with [Après-Ski!]()
-
-The web application geared towards snowsport entheusiests looking to find their post slopes food & drinks to round out a good day.
+Hi!
+<br>
+<br>
+Après-Ski was our capstone project at The Turing School of Software & Design. 
+<br>
+<br>
+The capstone's challenge was to design and build two micro-services: a back-end RESTful API, and a front-end React web application. The added twist was that each team had to impliment a new tech (stretch-tech) for this project. Something that we had never worked on before, all in two and a half weeks! 
+<br>
+<br>
+Please follow [this link]() and select a pre-made user to see our webapplication!
 
 ---
 
@@ -50,6 +55,10 @@ The web application geared towards snowsport entheusiests looking to find their 
   </tr>
 </table>
 
+<h3>Front-End's Repo and Stretch-tech</h3>
+
+[Front-End's Repo](https://github.com/Apres-Ski/Apres-Ski-FE)
+
 <div align='right'>
 <h2>The Back-End Team</h2>
 <table>
@@ -92,11 +101,11 @@ The web application geared towards snowsport entheusiests looking to find their 
 </tr>
 </table>
 
-<h3>The Back-End's Repo</h3>
+<h3>Back-End's Repo and Stretch-tech</h3>
 
-[Repo Link](https://github.com/Apres-Ski/Apres_Ski_BE)
+[Back-End's Repo](https://github.com/Apres-Ski/Apres_Ski_BE)
 
-<p>Hi!</p>
-<p>This was our capstone project at The Turing School of Software & Design. The challenge was to design and build an API micro service for use with a custom built front-end React service. The added twist was we had to do it in a brand new language and framework, all in two and a half weeks! The result was that we created, and fully tested, a Django REST Framework API that provides all the needed information for Apres-Ski.</p> 
-<p>Please click the above link to see our code and get more information about our project. </p>
+<p>Our selected stretch-tech was to create our API in a totaly new language, framework, and testing framework.</p>
+<p>We chose Python, Django, Django REST Framework, and Pytest for this project. While this choice did make the project considerably harder, we are very happy with our results. The experience of stepping into a new language and framework let us really appreciate how much we had learned over our time studying at Turing and let us prove that we could step into any tech-stack and be successful!</p>
+
 </div>
