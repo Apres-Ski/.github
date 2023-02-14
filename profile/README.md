@@ -5,91 +5,23 @@
 
 Après-Ski is an application geared towards snowsport entheusiests looking for good vibes, food, and drinks to round out their day.
 
-:skier: [MVP](#mvp)
-<br>
-:skier: [Learning Goals](#learning-goals)
-<br>
-:skier: [Project Overview](#project-overview)
-<br>
-:skier: [Planning](#planning)
-<br>
-:skier: [Tech Stack](#tech-stack)
-<br>
-:skier: [Contributors](#contributors)
-<br>
+Check it out here [here]()
 
-### MVP
-
-- This project is for: Breckenridge skiers who are hungry and limited to walking distence.
-
-| Features | Description |
-| --- | --- |
-| User Selection | A user can login to the app by selecting a demo user|
-| Dashboard | A dashboard that displays a list of restaurants in the area and a map with location markers|
-| Map | A map that shows markers for: the demo user's location, ski-lifts, and restaurants in the area. *These markers will just display the names and distance from the user* |
-| List | A list that on load will display all restaurants with summary information in ascending order of distance from using|
-| Filter Menu | A menu that allows a user to filter the restaurants list by `vibe`, `if there is a happy hour`, `if they server alcohol`|
-| Details View | A modal that displays all the information for a restaurant |
-
-
-<br>
-
-### Learning Goals
-
-<br>
-
-### Project Overview
-
-<br>
-
-### Setup/Installation Guide
-
-- Fork this repository
-- Clone your fork
-- From the command line, install gems and set up your DB:
-  - ```bundle```
-- Run ```rails db:{create,migrate}```
-- Run the test suite with ```bundle exec rspec.```
-
-<br>
-
-### Planning
-
-<br>
-
-### Tech Stack
-
-<br>
-
-### Contributors
+## The Front-End Team
 
 <table>
   <tr>
-    <th>Joseph Hilby</th>
     <th>Tricia Holmes</th>
     <th>Ryan Nagel</th>
-    <th>Kristen Nestler</th>
-    <th>Kevin Ta</th>
     <th>Matt Walter</th>
   </tr>
   <tr>
-    <td><img src="https://media.licdn.com/dms/image/C4E03AQEdZUKFgryaqg/profile-displayphoto-shrink_800_800/0/1567961066772?e=1680739200&v=beta&t=TFQt8RiDDMpJHbytApiShBpLVCCZlfeuUwLffp95tG8"></td>
-    <td><img src="https://media.licdn.com/dms/image/D4E03AQF88CLqrqQ1uA/profile-displayphoto-shrink_800_800/0/1663436465329?e=1680739200&v=beta&t=2cbhih9hldc3dkTuiAK5uBr0ZsaVKiTwM4349AAAd-o"></td>
-    <td><img src="https://avatars.githubusercontent.com/u/108195380?v=4"></td>
-    <td><img src="https://media.licdn.com/dms/image/D4E03AQESEnUYGJprLA/profile-displayphoto-shrink_800_800/0/1673023729512?e=1680739200&v=beta&t=PhhX0_wEMPxiu2nO-OfDyCv73Ro_iyyGPjQ4YUnXSC4"></td>
-    <td><img src="https://avatars.githubusercontent.com/u/36166420?v=4"></td>
-    <td><img src="https://avatars.githubusercontent.com/u/106847513?v=4"></td>
+    <td><img width="150px" src="https://media.licdn.com/dms/image/D4E03AQF88CLqrqQ1uA/profile-displayphoto-shrink_800_800/0/1663436465329?e=1680739200&v=beta&t=2cbhih9hldc3dkTuiAK5uBr0ZsaVKiTwM4349AAAd-o"></td>
+    <td><img width="150px" src="https://avatars.githubusercontent.com/u/108195380?v=4"></td>
+    <td><img width="150px" src="https://avatars.githubusercontent.com/u/106847513?v=4"></td>
   </tr>
  
   <tr>
-    <td>
-       <a href="https://github.com/josephhilby" rel="nofollow noreferrer">
-          <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-      </a><br>
-        <a href="https://www.linkedin.com/in/josephmhilby" rel="nofollow noreferrer">
-          <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-      </a>
-    </td>
     <td>
       <a href="https://github.com/tricia-holmes"  rel="nofollow noreferrer">
           <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
@@ -107,22 +39,6 @@ Après-Ski is an application geared towards snowsport entheusiests looking for g
         </a>
     </td>
     <td>
-      <a href="https://github.com/knestler" rel="nofollow noreferrer">
-          <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-        </a><br>
-      <a href="https://www.linkedin.com/in/kristen-nestler/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-        </a>
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/in/kevin-ta-b1a36723b/" rel="nofollow noreferrer">
-          <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
-        </a><br>
-      <a href="https://github.com/KevinT001" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-        </a>
-    </td>
-    <td>
       <a href="https://github.com/MattWalterTX" rel="nofollow noreferrer">
           <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
             </a><br>
@@ -132,3 +48,50 @@ Après-Ski is an application geared towards snowsport entheusiests looking for g
     </td>
   </tr>
 </table>
+
+<div align='right'>
+<h2>The Back-End Team</h2>
+<table>
+<tr>
+<th>Joseph Hilby</th>
+<th>Kristen Nestler</th>
+<th>Kevin Ta</th>
+</tr>
+<tr>
+<td><img width="150px" src="https://media.licdn.com/dms/image/C4E03AQEdZUKFgryaqg/profile-displayphoto-shrink_800_800/0/1567961066772?e=1680739200&v=beta&t=TFQt8RiDDMpJHbytApiShBpLVCCZlfeuUwLffp95tG8"></td>
+<td><img width="150px" src="https://media.licdn.com/dms/image/D4E03AQESEnUYGJprLA/profile-displayphoto-shrink_800_800/0/1673023729512?e=1680739200&v=beta&t=PhhX0_wEMPxiu2nO-OfDyCv73Ro_iyyGPjQ4YUnXSC4"></td>
+<td><img width="150px" src="https://avatars.githubusercontent.com/u/36166420?v=4"></td>
+</tr>
+
+<tr>
+<td>
+<a href="https://github.com/josephhilby" rel="nofollow noreferrer">
+<img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+</a><br>
+<a href="https://www.linkedin.com/in/josephmhilby" rel="nofollow noreferrer">
+<img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+</a>
+</td>
+<td>
+<a href="https://github.com/knestler" rel="nofollow noreferrer">
+<img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+</a><br>
+<a href="https://www.linkedin.com/in/kristen-nestler/" rel="nofollow noreferrer">
+<img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+</a>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/kevin-ta-b1a36723b/" rel="nofollow noreferrer">
+<img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+</a><br>
+<a href="https://github.com/KevinT001" rel="nofollow noreferrer">
+<img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+</a>
+</td>
+</tr>
+</table>
+<h3><a herf='https://github.com/Apres-Ski/Apres_Ski_BE'>The Back-End's Repo</a></h3>
+<p>Hi!</p>
+<p>This was our capstone project at The Turing School of Software & Design. The challenge was to design and build an API micro service for use with a custom built front-end React service. The added twist was we had to do it in a brand new language and framework, all in two and a half weeks!. The result was that we created, and fully tested, a Django REST Framework API that provides all the needed information for Apres-Ski.</p> 
+<p>Please click the above link to see our code and get more information about our project. </p>
+</div>
