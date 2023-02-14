@@ -6,10 +6,10 @@ Hi!
 Après-Ski was our capstone project at The Turing School of Software & Design. 
 <br>
 <br>
-The capstone's challenge was to pitch, design, build and deploy two micro-services: a back-end RESTful API, and a front-end React web application. There was an added twist. Each team had to impliment a new technology (stretch-tech) for this project, something that they had never worked on before. All in two and a half weeks!
+The capstone's challenge was to pitch, design, build and deploy two micro-services: a back-end RESTful API, and a front-end React web application. There was an added twist. Each team had to impliment a new technology (see below: stretch-tech) for this project, something that they had never worked on before. All in two and a half weeks!
 <br>
 <br>
-Please follow [this link]() and select a pre-made user to see our API and webapplication !
+Please follow [this link]() and select a pre-made user to see our API and webapplication in action!
 
 ---
 
