@@ -9,7 +9,10 @@ This was our capstone project at The Turing School of Software & Design.
 The capstone's challenge was to pitch, design, build and deploy two micro-services: a back-end RESTful API, and a front-end React web application. However, there was an added twist. Each team had to impliment a new technology (see below: stretch-tech) for this project, something that they had never worked on before. All in two and a half weeks!
 <br>
 <br>
-Please follow [this link]() and select a pre-made user to see our API and webapplication in action!
+If you would like to see Après-Ski in action. Please follow [this link]() and select a pre-made user.
+<br>
+<br>
+Keep reading for more about our Teams and Stretch-Techs...
 
 ---
 
