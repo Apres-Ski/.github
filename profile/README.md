@@ -62,6 +62,10 @@ Keep reading for more about our Teams and Stretch-techs...
 
 [Front-End's Repo](https://github.com/Apres-Ski/Apres-Ski-FE)
 
+<p>Our selected stretch-tech was to manage our global state using Redux and Redux-toolkit, as well as implementing a map by using mapbox-gl.</p>
+<p>Using Redux was a really valuable experience. There was a decent amount of up front setup required, as well as a bit of a learning curve to be able to effectively use the technology, but we enjoyed the benefits of it once we were comfortable. The ability to manage state globally, instead of passing props down from one component to another, allowed us to easily use and manage the state from various components. Redux may have been heavy-handed for a project of this scope, but using it was a valuable experience for all of us.</p>
+<p>This was the Front-End team's first time implementing a map into one of our applications, and after a bit of research, we decided to use mapbox-gl for this. Mapbox's documentation made it fairly easy to get the map displayed and add markers based on coordinates. We barely scratched the surface of what you can do with mapbox, and much more learning would have been required if we were using live coordinates, but it was a valuable experience nonetheless. </p>
+
 <div align='right'>
 <h2>The Back-End Team</h2>
 <table>
