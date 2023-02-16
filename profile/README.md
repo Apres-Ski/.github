@@ -112,7 +112,11 @@ Keep reading for more about our Teams and Stretch-techs...
 
 [Back-End's Repo](https://github.com/Apres-Ski/Apres_Ski_BE)
 
-<p>Our selected stretch-tech was to create our API in a totaly new language, framework, and testing framework.</p>
-<p>We chose Python, Django, Django REST Framework, and Pytest for this project. While this choice did make the project considerably harder, we are very happy with our results. The experience of stepping into a new language and framework let us really appreciate how much we had learned over our time studying at Turing and let us prove that we could <i>quickly</i> step into any tech-stack and be successful!</p>
+<p>
+For this capstone project, our selected stretch-tech was to create our API in a totally new language, framework, and testing framework!
+</p>
+<p>
+We chose Python, Django, Django REST Framework, and Pytest for this project. While this choice did make the project considerably harder, we are very happy with our results. The opportunity to successfully apply our conceptual knowledge to a totally new tech-stack was invaluable. This experience, of stepping away from the primary language and frameworks we learned over the past seven months and into a new ones, let us really appreciate how much we had learned over our time studying at Turing. We also proved to ourselves that we could <i>quickly</i> step into a new tech-stack and be successful!
+</p>
 
 </div>
