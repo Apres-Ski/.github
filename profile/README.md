@@ -75,7 +75,7 @@ Keep reading for more about our Teams and Stretch-techs...
 <th>Kevin Ta</th>
 </tr>
 <tr>
-<td><img width="150px" src="https://media.licdn.com/dms/image/C4E03AQEdZUKFgryaqg/profile-displayphoto-shrink_800_800/0/1567961066772?e=1680739200&v=beta&t=TFQt8RiDDMpJHbytApiShBpLVCCZlfeuUwLffp95tG8"></td>
+<td><img width="150px" src="https://media.licdn.com/dms/image/D5603AQFBwBZWgwT9Uw/profile-displayphoto-shrink_800_800/0/1677597181341?e=1683158400&v=beta&t=JFpcq9nvJGkRETZbTv1r0ZLy5B1d790kv7DrXktlVFM"></td>
 <td><img width="150px" src="https://media.licdn.com/dms/image/D4E03AQESEnUYGJprLA/profile-displayphoto-shrink_800_800/0/1673023729512?e=1680739200&v=beta&t=PhhX0_wEMPxiu2nO-OfDyCv73Ro_iyyGPjQ4YUnXSC4"></td>
 <td><img width="150px" src="https://avatars.githubusercontent.com/u/36166420?v=4"></td>
 </tr>
